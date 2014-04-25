@@ -1,0 +1,2 @@
+serviceClass: fr.ifsic.gae.client.GreetingService
+path: E13A59ECBA5AD7A37FBDC89D303870EF.gwt.rpc
